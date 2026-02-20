@@ -1,1 +1,1 @@
-
+console.log("Nova Template Loaded");
